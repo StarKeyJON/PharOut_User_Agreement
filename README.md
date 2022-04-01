@@ -32,9 +32,9 @@
             <div>
               <p>
                 The smart contracts are on display for your inspection and anyone can inspect the front-end for
-                themselves, only use this dapp if you feel comfortable. We do not offer any user guarantees or refunds
+                themselves, only use the dApp if you feel comfortable. We do not offer any user guarantees or refunds
                 at this time.
-                <br /> All current data file structures are subject to change during this time period.
+                <br /> Current data file structures are subject to change during this time period.
                 <br /> Any user profile information entered may be moved or lost.
                 <br /> All financial data is stored on the blockchain through the proxy contracts,
                 📦🔗📦🔗📦🔗📦🔗📦🔗📦🔗📦
