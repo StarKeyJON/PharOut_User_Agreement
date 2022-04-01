@@ -19,4 +19,37 @@
                 you knowingly perform on this website.
               </li>
             </ul>
-            <h5>These terms and conditions may change in the future.</h5>
+            <p>
+                The Marketplace contracts are yet to be professionally audited. <br /> The Temp-Mint and "PharOut/Pham"
+                NFT contracts are the only contracts enabled for interaction on mainnet at this point.
+                <br/> The full marketplace proxy suite has been deployed and coded in for website testing/interaction.
+                <br/> Please only test if you are sure of what you are doing. Functions and settings are subject to change as we build.
+                <br />
+                <a href="https://github.com/StarKeyJON/phar_out_temp_mint">
+                  You can find the contracts here for personal review.
+                </a>
+              </p>
+            <div>
+              <p>
+                The smart contracts are on display for your inspection and anyone can inspect the front-end for
+                themselves, only use this dapp if you feel comfortable. We do not offer any user guarantees or refunds
+                at this time.
+                <br /> All current data file structures are subject to change during this time period.
+                <br /> Any user profile information entered may be moved or lost.
+                <br /> All financial data is stored on the blockchain through the proxy contracts,
+                📦🔗📦🔗📦🔗📦🔗📦🔗📦🔗📦
+                <br /> no financial information is stored on the distributed database.
+                <br /> The only user identification needed is your Crypto Wallet Address, or your IP Address. No further
+                identification material necessary.
+                <br /> User profiles are created using passwords that only the user knows. We do not hold custody to
+                your database private key and can not gain access to it or recover it if your password is forgotten!
+                <br /> Account recovery systems are being established to offer trusted party authorization, until then
+                you could lock yourself out!
+              </p>
+            </div>
+            <br />
+            <h4>The team will NOT contact you asking for private information or financial material!</h4>
+            <h4>The team will NOT contact you asking for your private seed phrase or password!</h4>
+            <h5>Report any individual that asks for these details for review by the cyber-security team!</h5>
+            <a href="https://kindly-care.surge.sh/#/security/reports"> Report suspicious activity here!</a>
+            <h5>These terms and conditions are subject to change.</h5>
