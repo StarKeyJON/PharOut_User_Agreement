@@ -1,6 +1,6 @@
 # PharOut User Agreement
 
-<h5>By using the "Phar-Out" dapp(found at either kindly-care.surge.sh or lavish-knowledge.surge.sh), and the smart contracts associated with it you explicitly agree:</h5>
+<h5>By using the "Phar-Out" dapp(temporarily found at either kindly-care.surge.sh or lavish-knowledge.surge.sh), and the smart contracts associated with it you explicitly agree:</h5>
             <ul style={{ fontSize: 16 }}>
               <li>1.) (to) accept all of the conditions found directly below.</li>
               <li>2.) (to) hold the developer(s) harmless from any charge or claim.</li>
